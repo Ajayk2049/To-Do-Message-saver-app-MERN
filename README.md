@@ -10,6 +10,7 @@ A full-stack message-saving and to-do-style app built with the MERN stack. Users
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
 </div>
 
 ---
@@ -19,14 +20,14 @@ A full-stack message-saving and to-do-style app built with the MERN stack. Users
 
 ### 🔐 Auth Page
 
-![Signup Page](./frontend/public/screenshots/signup.png)
+![Signup Page](./frontend/screenshots/SignupPage.png)
+![Login Page](./frontend/screenshots/LoginPage.png)
 
 ### 💬 Message Manager
 
-![Message Saver](./frontend/public/screenshots/messages.png)
+![Message Saver](./frontend/screenshots/messageSaver.png)
 
-> To add your own screenshots, place `.png` or `.jpg` files in `frontend/public/screenshots/`  
-> Use relative paths like `![Label](./frontend/public/screenshots/filename.png)`
+
 
 ---
 
