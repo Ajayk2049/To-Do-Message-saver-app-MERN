@@ -20,12 +20,15 @@ A full-stack message-saving and to-do-style app built with the MERN stack. Users
 
 ### 🔐 Auth Page
 
-![Signup Page](./frontend/screenshots/SignupPage.png)
-![Login Page](./frontend/screenshots/LoginPage.png)
+![Signup Page](https://github.com/Ajayk2049/To-Do-Message-saver-app-MERN/blob/main/frontend/Screenshots/SignupPage.png?raw=true)
+
+### 👤 Login Page
+
+![Login Page](https://github.com/Ajayk2049/To-Do-Message-saver-app-MERN/blob/main/frontend/Screenshots/LoginPage.png?raw=true)
 
 ### 💬 Message Manager
 
-![Message Saver](./frontend/screenshots/messageSaver.png)
+![Message Saver](https://github.com/Ajayk2049/To-Do-Message-saver-app-MERN/blob/main/frontend/Screenshots/messageSaver.png?raw=true)
 
 
 
