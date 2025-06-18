@@ -136,8 +136,11 @@ example test-user:
 🧠 Future Enhancements (Ideas)
 
  Dark mode toggle
+ 
  Drag-and-drop message reordering
+ 
  Message tags and filtering
+ 
  Upload file attachments per message
 
 📄 License
